@@ -1,5 +1,5 @@
 spring:
-Application:
-Name:demo
+ Application:
+  Name: demo
 Server:
-Port:10011
+ Port: 10011
